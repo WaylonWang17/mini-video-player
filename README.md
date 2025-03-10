@@ -22,12 +22,12 @@ Looping Video Support 🔄
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/YourUsername/mini-video-player.git
+git clone https://github.com/WaylonWang17/mini-video-player.git
 cd mini-video-player
 
-2️⃣ Install Dependencies
+2️⃣ Install required modules
 
-pip install -r requirements.txt
+pip install pillow
 
 3️⃣ Ensure FFmpeg is Installed
 
